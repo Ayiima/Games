@@ -8,7 +8,7 @@ This is a basic implementation of the game Tetris, but it's missing a few things
   - When a line is cleared, the score should increase based on the number of lines cleared at once. See https://tetris.fandom.com/wiki/Scoring
   - Display a high score using [localSorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 - Next Piece Preview
-  - Show the next piece (or pieces) that will enter the playifield. See https://tetris.fandom.com/wiki/Next 
+  - Show the next piece (or pieces) that will enter the playfield. See https://tetris.fandom.com/wiki/Next 
 - Hard Drop
   - When the Space key is pressed, the piece should be place as far donw as possible. See https://tetris.fandom.com/wiki/Hard_Drop
 - Mobile and touchscreen support
