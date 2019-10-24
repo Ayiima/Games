@@ -10,7 +10,7 @@ This is a basic implementation of the game Tetris, but it's missing a few things
 - Next Piece Preview
   - Show the next piece (or pieces) that will enter the playfield. See https://tetris.fandom.com/wiki/Next 
 - Hard Drop
-  - When the Space key is pressed, the piece should be place as far donw as possible. See https://tetris.fandom.com/wiki/Hard_Drop
+  - When the Space key is pressed, the piece should be placed as far down as possible. See https://tetris.fandom.com/wiki/Hard_Drop
 - Mobile and touchscreen support
   - Allow the game to be scalled down to a phone size. See https://codepen.io/straker/pen/VazMaL
   - Support [touch controls](https://developer.mozilla.org/en-US/docs/Web/API/Touch_events)
