@@ -121,7 +121,7 @@ function placeTetromino() {
     if (playfield[row].every(cell => !!cell)) {
 
       // drop every row above this one
-      for (let r = row; r > 0; r--) {
+      for (let r = row; r >= 0; r--) {
         playfield[r] = playfield[r-1];
       }
     }
