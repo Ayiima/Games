@@ -24,6 +24,7 @@ This is a basic implementation of the game Tetris, but it's missing a few things
 - [Snake](https://gist.github.com/straker/ff00b4b49669ad3dec890306d348adc4)
 - [Pong](https://gist.github.com/straker/81b59eecf70da93af396f963596dfdc5)
 - [Breakout](https://gist.github.com/straker/98a2aed6a7686d26c04810f08bfaf66b)
+- [Bomberman](https://gist.github.com/straker/769fb461e066147ea16ac2cb9463beae)
 
 ## Support
 
