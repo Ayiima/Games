@@ -120,9 +120,10 @@ function placeTetromino() {
   for (let row = playfield.length - 1; row >= 0; ) {
     if (playfield[row].every(cell => !!cell)) {
 
-      // drop every row above this one
+      // drop every row above this one (slice the row so we create a copy 
+      // of it and don't corrupt the playfield after a few line clears)
       for (let r = row; r >= 0; r--) {
-        playfield[r] = playfield[r-1];
+        playfield[r] = playfield[r-1].slice();
       }
     }
     else {
