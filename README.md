@@ -14,6 +14,8 @@ This is a basic implementation of the game Tetris, but it's missing a few things
 - Mobile and touchscreen support
   - Allow the game to be scalled down to a phone size. See https://codepen.io/straker/pen/VazMaL
   - Support [touch controls](https://developer.mozilla.org/en-US/docs/Web/API/Touch_events)
+
+**Important note:** I will answer questions about the code but will not add more features or answer questions about adding more features. This series is meant to give a basic outline of the game but nothing more.
   
 ## License
 
