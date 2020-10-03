@@ -2,7 +2,7 @@
 
 This is a basic implementation of the game Tetris, but it's missing a few things intentionally and they're left as further exploration for the reader.
 
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/2433219/94984425-04e6a100-0509-11eb-8d58-3381a2f2c37d.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/2433219/94984518-13818800-050a-11eb-938e-275156f905c8.png">
 
 ## Further Exploration
 
