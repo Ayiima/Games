@@ -2,6 +2,8 @@
 
 This is a basic implementation of the game Tetris, but it's missing a few things intentionally and they're left as further exploration for the reader.
 
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/2433219/94984425-04e6a100-0509-11eb-8d58-3381a2f2c37d.png">
+
 ## Further Exploration
 
 - Score
@@ -27,7 +29,12 @@ This is a basic implementation of the game Tetris, but it's missing a few things
 - [Pong](https://gist.github.com/straker/81b59eecf70da93af396f963596dfdc5)
 - [Breakout](https://gist.github.com/straker/98a2aed6a7686d26c04810f08bfaf66b)
 - [Bomberman](https://gist.github.com/straker/769fb461e066147ea16ac2cb9463beae)
+- [Frogger](https://gist.github.com/straker/82a4368849cbd441b05bd6a044f2b2d3)
 
 ## Support
 
 Basic HTML Games are made possible by users like you. When you become a [Patron](https://www.patreon.com/straker), you get access to behind the scenes development logs, the ability to vote on which games I work on next, and early access to the next Basic HTML Game.
+
+### Top Patrons
+
+- Innkeeper Games
