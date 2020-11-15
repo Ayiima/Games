@@ -14,7 +14,7 @@ This is a basic implementation of the game Tetris, but it's missing a few things
 - Hard Drop
   - When the Space key is pressed, the piece should be placed as far down as possible. See https://tetris.fandom.com/wiki/Hard_Drop
 - Mobile and touchscreen support
-  - Allow the game to be scalled down to a phone size. See https://codepen.io/straker/pen/VazMaL
+  - Allow the game to be scaled down to a phone size. See https://codepen.io/straker/pen/VazMaL
   - Support [touch controls](https://developer.mozilla.org/en-US/docs/Web/API/Touch_events)
 
 **Important note:** I will answer questions about the code but will not add more features or answer questions about adding more features. This series is meant to give a basic outline of the game but nothing more.
@@ -30,6 +30,7 @@ This is a basic implementation of the game Tetris, but it's missing a few things
 - [Breakout](https://gist.github.com/straker/98a2aed6a7686d26c04810f08bfaf66b)
 - [Bomberman](https://gist.github.com/straker/769fb461e066147ea16ac2cb9463beae)
 - [Frogger](https://gist.github.com/straker/82a4368849cbd441b05bd6a044f2b2d3)
+- [Missile Command](https://gist.github.com/straker/afc4e2a30b6df772a5f9f6ef01751d41)
 
 ## Support
 
